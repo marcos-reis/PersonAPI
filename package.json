@@ -1,0 +1,14 @@
+{
+  "name": "PersonAPI",
+  "version": "1.0.0",
+  "description": "Open Source personas catalog.",
+  "main": "index.js",
+  "repository": "git@github.com:marcos-reis/PersonAPI.git",
+  "author": "Marcos Reis <marcosreisdossantos01@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ts-node-dev": "^1.0.0-pre.62",
+    "typescript": "^4.0.2"
+  }
+}
