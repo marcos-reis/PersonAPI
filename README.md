@@ -9,17 +9,17 @@ Open Source personas catalog.
 To clone and execute this API, you will need, from Git, Nodejs and Yarn installed in your machine. From your command line:
 
 ````
-# Clone this repository
-git clone https://github.com/marcos-reis/personapi
+  # Clone this repository
+  git clone https://github.com/marcos-reis/personapi
 
- # Go to repository cloned
- $ cd personapi
+  # Go to repository cloned
+  $ cd personapi
 
- # Install dependencies
- $ yarn install
+  # Install dependencies
+  $ yarn install
 
- # Run API in development mode
- $ yarn dev:server
+  # Run API in development mode
+  $ yarn dev:server
 
  ````
 
